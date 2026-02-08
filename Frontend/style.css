@@ -1,0 +1,14 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: #3577c2;
+    padding: 26px;
+}
+
+button {
+    background: #e60000;
+    color: rgb(0, 0, 0);
+    border: neone;
+    padding: 10px 20px;
+    cursor: pointer;    
+
+}
